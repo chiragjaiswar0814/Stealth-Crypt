@@ -110,6 +110,4 @@ Stealth-Crypt/
 - **Shredding limits.** Multi-pass overwrite helps on traditional HDDs. On SSDs with wear leveling and TRIM, forensic recovery may still be possible; this tool reduces casual recovery, not nation-state forensic guarantees.
 - **Local use only.** This tool is intended for offline, local file protection—not for network transport protocols or key exchange.
 
-## License
 
-See repository license file if provided.
